@@ -353,7 +353,7 @@ loadjs.ready("alertifyjs", function () {
                     <a class="nav-link" data-widget="pushmenu" data-enable-remember="true" data-ew-action="none"><i class="fa-solid fa-bars ew-icon"></i></a>
                 </li>
                 <a class="navbar-brand d-none" href="#" data-ew-action="none">
-                    <span class="brand-text">New 2025</span>
+                    <span class="brand-text">SIAKAD UNCEN</span>
                 </a>
             </ul>
             <!-- Right navbar links -->
@@ -366,7 +366,7 @@ loadjs.ready("alertifyjs", function () {
         <div class="brand-container">
             <!-- Brand Logo //** Note: Only licensed users are allowed to change the logo ** -->
             <a href="#" class="brand-link">
-                <span class="brand-text">New 2025</span>
+                <span class="brand-text">SIAKAD UNCEN</span>
             </a>
         </div>
         <!-- Sidebar -->
